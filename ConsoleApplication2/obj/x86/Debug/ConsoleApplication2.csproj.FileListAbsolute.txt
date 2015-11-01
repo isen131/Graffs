@@ -1,0 +1,28 @@
+C:\Users\ХРЮША\documents\visual studio 2010\Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\ХРЮША\documents\visual studio 2010\Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\ХРЮША\documents\visual studio 2010\Projects\ConsoleApplication2\bin\Debug\ClassLibrary3.dll
+C:\Users\ХРЮША\documents\visual studio 2010\Projects\ConsoleApplication2\bin\Debug\ClassLibrary3.pdb
+C:\Users\ХРЮША\documents\visual studio 2010\Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ХРЮША\documents\visual studio 2010\Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\ХРЮША\documents\visual studio 2010\Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+F:\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\Графы\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\Графы\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\Графы\ConsoleApplication2\bin\Debug\ClassLibrary3.dll
+F:\Графы\ConsoleApplication2\bin\Debug\ClassLibrary3.pdb
+F:\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+H:\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+H:\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+H:\Графы\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+H:\Графы\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+H:\Графы\ConsoleApplication2\bin\Debug\ClassLibrary3.dll
+H:\Графы\ConsoleApplication2\bin\Debug\ClassLibrary3.pdb
+H:\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Проекты VS\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\Женя\Desktop\Проекты VS\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\Женя\Desktop\Проекты VS\Графы\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Женя\Desktop\Проекты VS\Графы\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Женя\Desktop\Проекты VS\Графы\ConsoleApplication2\bin\Debug\ClassLibrary3.dll
+C:\Users\Женя\Desktop\Проекты VS\Графы\ConsoleApplication2\bin\Debug\ClassLibrary3.pdb
+C:\Users\Женя\Desktop\Проекты VS\Графы\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
